@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/farhan-dqz/Julie-Mwol
+$ git clone https://github.com/farhan-dqz/hydraser
 $ cd Julie-Mwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
